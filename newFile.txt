@@ -1,0 +1,3 @@
+So far, we have our 4x4 grid, and one tile in the upper left corner. As of now, I'd say we're a bit behind since we've only got the 
+basic grid, but we're starting to get an idea of how the pygame module works. Some of the work is a bit tedious, and because of this
+we opted to just get down the basics for this assignment to show some progress. 

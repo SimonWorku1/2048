@@ -1,0 +1,14 @@
+Reflection:
+Our original project plan was to create an ongoing game of 2048 that will continue playing out even after a 2048 tile was created.
+However, we decided to have the highest number possible to be 2048, and have the game end when 2048 appears. Our original project
+plan also identified each member's responsiblity, however during the course of the project, our responsibilities merged and changed. 
+We all ended up doing what was required of each other to complete the project.
+
+Insights learned through the project: While working on this project, we learned how to troubleshoot and work with a new library.
+
+Team member contribution:
+The majority of the code was written by Devan with feedback from Nathan and Simon. Nathan and Simon provided the codes for the color scheme 
+and sounds effects and scheduled team meetings so that we can work together on the project. Testing of the code was done by the team 
+together during team meetings. Final review and submission of project is the responsibility of Devan. 
+
+
